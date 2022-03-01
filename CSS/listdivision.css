@@ -1,0 +1,30 @@
+#divDivision{
+	margin:30px 0px;
+	/*height: 300px;
+    width: 500px;*/
+}
+#divDivision table{
+	
+    width: 100%;
+}
+#divDivision table  td,#divDivision table th{
+	text-align:center;
+}
+#tablecontent{
+	
+}
+.back{
+	height:30px;
+	margin-bottom:10px;
+	
+}
+.back a{
+	font-size:14px;
+}
+.first{
+	width:150px;
+	text-align:center;
+}
+.second{
+	width:500px;
+}

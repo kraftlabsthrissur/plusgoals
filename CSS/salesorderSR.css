@@ -1,0 +1,240 @@
+.align{
+	float:left
+}
+.SalesOrder{
+	/*width: 908px;*/
+	background: #C1D7E6;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	border:1px solid #3D3D3D;
+	height: auto;
+}
+#overlayA{
+	height:auto !important;
+	width:920px !important;
+}
+.divTitleRow{
+	width:98.5%;
+	font-size: 14px;
+    height: 31px;
+	/* background:#BD4247; */
+	color:white;
+	font-weight: bold;
+}
+.divRowHead{
+	width:100%;
+	height: 30px;
+	border-bottom: 1px solid #CACACA;
+}
+.divRow{
+	width:908px;
+	height: 30px;
+	border-bottom: 1px solid #CACACA;
+}
+.colHead{
+	float: left;
+	width: 180px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+#tablecontent{
+	margin:5px;
+	/* height:550px; */
+}
+.colMode{
+	float: left;
+	width: 18%;
+	height: 31px;
+	border-right: 1px solid #CACACA;
+	line-height: 30px;
+	text-align: center;
+}
+.colDate{
+	float: left;
+	width: 12%;
+	border-right: 1px solid #CACACA;
+	height: 31px;
+	line-height: 30px;
+	text-align: center;
+}
+.colCheckNo{
+	float: left;
+	width: 15%;
+	border-right: 1px solid #CACACA;
+	height: 31px;
+	line-height: 30px;
+	text-align: center;
+}
+.colBank{
+	float: left;
+	width: 25%;
+	border-right: 1px solid #CACACA;
+	height: 31px;
+	line-height: 30px;
+	text-align: center;
+}
+.colAmount{
+	float: left;
+	width: 12%;
+	border-right: 1px solid #CACACA;
+	height: 31px;
+	line-height: 30px;
+	text-align: center;
+}
+.colclose{
+	float: left;
+	width: 10%;
+	height: 31px;
+	line-height: 30px;
+	text-align: center;
+}
+.item{
+	border-top:1px solid #3D3D3D;
+	overflow: scroll;
+	/*width: 908px;*/
+	overflow-x: hidden;
+	height: 200px;
+}
+.border{
+	/* border:1px solid #3D3D3D;
+	border-radius:10px;
+	text-align:center;
+	height: 100px;
+    line-height: 45px; */
+}
+#det_chq input ,#det_cash input{
+	width:150px;
+}
+.table1{
+	height:30px;
+	margin:10px;
+}
+.table2{
+	height:60px;
+	margin:10px;
+}
+.table2 div{
+	height:30px;
+	line-height:30px;
+}
+.table2 table{
+	height:30px;
+	width:760px;
+}
+.table3{
+	height:60px;
+	margin:10px;
+}
+.table3 div{
+	height:30px;
+	line-height:30px;
+}
+.table3 table{
+	height:30px;
+	width:900px;
+}
+.table4{
+	height:30px;
+	margin:10px;
+	line-height:30px;
+}
+.table4 .remarks{
+	float:left;
+}
+.table4 div{
+	float:right;
+}
+.table4 .submit input{
+	/* height: 24px;
+    width: 70px; */
+	/* text-align:center;
+	line-height:18px;
+	/*font-size:15px;*/
+}
+.colcloseval{
+	float: left;
+	width: 10%;
+	height: 30px;
+	line-height: 30px;
+    text-align: center;
+}
+.total{
+	width:100%;
+	height:30px;
+	margin:10px 0px;
+	line-height:30px;
+}
+.total div{
+	float:right;
+}
+.total input{
+	margin:0px 0px 10px 10px;
+}
+.savepart{
+	height:30px;
+	margin:10px;
+}
+.savepart .save{
+	float:left;
+}
+.savepart .next{
+	float:right;
+}
+.save input{
+	/* height: 24px;
+    width: 70px;
+	line-height:16px;
+	text-align:center; */
+}
+.next a{
+    width: 68px;
+	/*height: 22px;
+	line-height:22px;*/
+	text-align:center;
+	color: #35355E;
+}
+.btn-mini{
+	padding:1px 6px 6px;
+	margin-bottom:7px;
+}
+#divChkCash{
+
+
+}
+#det_chq {
+	width:100%;
+}
+.input{
+	height:40px;
+}
+.input div{
+	float:left;
+	width:350px;
+	height:40px;
+}
+#divCash table{
+	padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+}
+#addedRows{
+	color: #0F1656;
+	background:#F5F5F5;
+}
+#storeResult,#divResult, #areaResult{
+	width:100%;
+}
+#storeResult .first,#divResult .first ,#areaResult .first{
+	/* width:149px; */
+}
+#storeResult .second,#divResult .last , #areaResult .last{
+	width:121px;
+}
+.colcloseval input[type="button"] {
+	/*  background: none repeat scroll 0 0 #6EACEA;
+    border-radius: 10px 10px 10px 10px;
+    color: #0F1656;
+    font-size: 11px; */
+}

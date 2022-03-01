@@ -1,0 +1,25 @@
+#tablecontent{
+	background:#FFFFFF;
+}
+.table1,.table2{
+	margin-bottom:10px;
+}
+.table1  table{
+	
+}
+.table2 input{
+	margin:0px 15px 0px 0px;
+}
+.table3{
+	
+}
+.table3 table{
+	width:40%;
+}
+.table3 table td a{
+	font-size:14px;
+	
+}
+.table3 table td input{
+	
+}

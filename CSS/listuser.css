@@ -1,0 +1,60 @@
+#divUser{
+	/* margin-bottom:20px;
+	height:auto; */
+	}
+#divUser table{
+	/* border-collapse:collapse;
+	height:auto;
+	text-align: justify;
+	margin:0;
+	padding:0;
+	vertical-align:top; */
+}
+#divUser table tr{
+	padding:0;
+	
+}
+#divUser table  td{
+	vertical-align: middle;
+	text-align:center;
+	
+}
+#divUser table  th{
+	text-align:center;
+	background-color: #AAAAAA;
+    color: #FFFFFF;
+}
+.test{
+	margin:0 !important;
+	/*padding:0 0 0 10px !important;
+	height:40px;*/
+	overflow:hidden;
+}
+#tablecontent{
+
+	/* margin:50px 7.5px 10px 9.5px;
+	height:auto;
+	overflow:hidden;
+	width:900px; */
+}
+.back{
+	height:30px;
+	margin-bottom:10px;
+	margin-top:10px;
+	width:70px;
+}
+.back a{
+	height:17px;
+	line-height: 18px;
+    text-align: center;
+}
+#nextpage{
+	height:30px;
+	line-height:30px;
+}
+#nextpage a{
+	margin-right:10px;
+}
+#nextpage strong{
+	margin-right:10px;
+}

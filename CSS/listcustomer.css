@@ -1,0 +1,70 @@
+#divcustomer{
+
+	height: auto;
+
+	overflow:hidden;
+}
+#subcontent{
+	height:630px ! important;
+}
+#divcustomer table{
+	overflow:hidden;
+	height: auto;
+	text-align:justify;
+}
+#tablecontent{
+	height:auto;
+	overflow:hidden;
+	/*border:1px solid black;*/
+	margin: 20px 2px 0px 2px;
+}
+#divcustomer table tr th{
+	background:#AAAAAA;
+	text-align:center;
+	vertical-align:middle;
+}
+#divcustomer table tr td{
+	text-align: center;
+    vertical-align: middle;
+}
+.tr_head {
+	color: #FFFFFF;
+}
+tbody
+{
+	display:block;
+}
+
+.listcustomercont{
+	height:700px !important;
+}
+td{
+	padding:5px;
+}
+tbody tr .odd td{
+	backgroung-color:yellow;
+}
+.back{
+	height:30px;
+	margin:10px 15px 5px !important;
+}
+.back a{
+	font-size:14px;
+	/* height:22px;
+	line-height:22px;
+    padding:0px 6px;
+    width: 56px;
+	text-align:center; */
+}
+.test{
+	margin:0 !important;
+	padding:0 0 0 10px !important;
+	overflow:hidden;
+	height:40px;
+	width:50px !important;
+
+}
+.customerlist{
+	height:550px !important;
+	overflow-y:scroll !important;
+}

@@ -1,0 +1,85 @@
+body {
+/* 	background:#555; */
+    position: relative;
+	margin:0;
+}
+a {
+    text-decoration: none;
+}
+
+#inner_content{
+	border: 1px solid rosyBrown;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	width: 898px;
+	margin: 10px;
+	margin-right: 10px;
+	background-color: #F5FDFD;
+}
+#main_panel{
+	background:#fff;
+	/* border: 1px solid #727272;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px 5px 5px 5px;
+	height: 280px;
+    margin: 30px 230px; */
+    /*width: 460px;*/
+}
+.panel{
+	overflow:hidden;
+	margin:20px;
+	height:240px;
+}
+.table1{
+	margin:10px;
+	height:180px;
+}
+.table1 table{
+	width:420px;
+	height:180px;
+}
+.table1 table td input{
+	
+}
+#table2{
+	margin:10px 10px 10px 145px;
+}
+#table2 input{
+	margin:0px 20px 0px 7px;
+	/*height:24px;
+	line-height:18px;*/
+	text-align:center;
+}
+#pan_head{
+	margin: 0 0 15px 120px;
+}
+#searchTypes{
+	margin-top: 20px;
+	padding: 10px;
+	border: 1px solid rosyBrown;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+#searchOpt{
+	margin: 20px 0;
+	padding: 10px;
+	border: 1px solid rosyBrown;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+#popHeadId{
+    margin-left: 165px;
+}
+#searchOpt input,#txtFromDate, #txtToDate{
+	border: 1px solid rosyBrown;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.name{
+	width:140px;
+}

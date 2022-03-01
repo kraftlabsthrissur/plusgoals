@@ -1,0 +1,39 @@
+#tablecontent{
+	background:#FFF;
+}
+.table1 table{
+	height:35px;
+	margin:25px;
+	width:508px;
+}
+.table2 table{
+	margin:25px;
+	width:508px;
+	height:140px;
+}
+.table2 table tr{
+	/*font-size:14px;*/
+}
+.click{
+	font-size:17px;
+}
+.click a{
+	 color: coral;
+}
+.table2 table td a{
+	font-size:15px;
+	text-align:center;
+	/*height:17px;
+	line-height:18px;*/
+}
+.button input{
+	
+	text-align:center;
+	/*height:24px;
+	width:70px;
+	line-height:24px;*/
+	cursor:pointer;
+}
+.table2  .button{
+	width:90px;
+}

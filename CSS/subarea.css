@@ -1,0 +1,79 @@
+#subarea{
+    /*border: 1px solid #727272;
+border-radius: 10px 10px 10px 10px;
+    margin:50px 240px 50px 240px;
+    width:580px;*/
+    height:auto;
+    min-height:180px;
+    background:#ffffff;
+}
+.tablecontent{
+    /*height:80px;*/
+}
+.table_first{
+    /*height: 35px;
+    width:340px;*/
+    padding:0px 40px 0px 60px;
+    line-height:20px;
+}
+.table_first td{
+    height:30px;
+    /*width:100px;*/
+}
+.table_first table{
+    width:50%;
+    margin:10px;
+}
+.table_first table input {
+    margin:0px 10px 0px 0px;
+    float:left;
+}
+.table_second{
+    height: 35px;
+    /*width:340px;*/
+    padding:0px 40px 0px 60px;
+    text-align:start !important;
+}
+.table_second table{
+    /*height:35px;*/
+    margin:10px;
+    width:270px;
+}
+.table_second table input{
+    margin:0px 10px 0px 0px;
+}
+.view{
+    height: 35px;
+    margin: 10px 20px;
+    padding:0px  30px;
+    width:100%;
+}
+.align{
+    float:left;
+    margin:0px 7px 0px 25px;
+    /*line-height:22px;
+    height:24px;
+    width:68px;*/
+    text-align:center;
+}
+.align a{
+    /* height:14px;
+    line-height:15px; */
+    font-size:15px;
+    padding:3px 12px;
+}
+.button  .reset{
+    width:68px;
+    height:24px;
+    text-align:center;
+    font-size:13px;
+}
+.button input{
+    /*width:68px;
+    height:24px;*/
+    margin:0px 7px;
+    float:left;
+}
+.subarea{
+
+}

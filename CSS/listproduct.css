@@ -1,0 +1,29 @@
+#divproduct{
+	
+}
+#divproduct table{
+
+}
+#divproduct table th{
+	background: #AAAAAA;
+	color:white;
+	vertical-align:middle;
+	text-align:center;
+}
+#divproduct table td{
+	vertical-align:middle;
+	text-align:center;
+}
+#tablecontent{
+  }
+.back{
+	height:22px;
+	margin-bottom:10px;
+	
+}
+.productcode{
+	width:90px;
+}
+.back a{
+	font-size:14px;
+}

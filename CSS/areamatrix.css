@@ -1,0 +1,269 @@
+
+#subcontent{
+	height:auto;
+	min-height:650px;
+	margin-top:10px;
+}
+.subtab_content{
+	/*border: 1px solid #727272;
+    border-radius: 10px 10px 10px 10px;*/
+	height:auto;
+	min-height:665px;
+	margin:10px 5px;
+}
+.subarea{
+	height: 30px;
+    margin: 10px;
+}
+.subarea table{
+	float:left;
+	width:30%;
+}
+.align{
+	float:left
+}
+.table_sub{
+	margin:10px;
+}
+.table_sub tr{
+	float:left;
+	margin:10px 2px;
+}
+.min{
+	padding:0px 6px 3px;
+	margin-bottom:10px;
+}
+.table_sub td{
+	width:auto;
+}
+.table_sub td input{
+	margin:0px 10px 0px 10px;
+}
+.reset_button{
+	float: right;
+    margin: 10px;
+}
+.divRowHead{
+	width:472px;
+	height: 30px;
+	border-bottom: 1px solid black;
+}
+.divRow{
+	width:472px;
+	height: 30px;
+	border-bottom: 1px solid black;
+}
+.areaMatrixDetailsView{
+	clear:both;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	border:1px solid #CACACA;
+	height: auto;
+}
+.divTitleRow{
+
+	height:30px;
+	border-bottom: 1px solid #CACACA;
+}
+#title .titleviewZone{
+	float: left;
+	width: 300px;
+	height: 30px;
+	border-right: 1px solid #CACACA;
+    font-size: 12.5px;
+
+    font-weight: bold;
+	
+	line-height: 30px;
+	text-align: center;
+}
+.item .titleviewZone{
+	float: left;
+	width: 300px;
+	height: 30px;
+	border-right: 1px solid #CACACA;
+	background: #f5f5f5;
+    color: #0F1656;
+	line-height: 30px;
+	text-align: center;
+	font-style:normal;
+	overflow:hidden;
+}
+#title .titleviewArea{
+	float: left;
+	width: 300px;
+	border-right: 1px solid #CACACA;
+	height: 30px;
+	line-height: 30px;
+	text-align:center;
+    font-size: 12.5px;
+    font-weight: bold;
+	
+}
+.item .titleviewArea{
+	float: left;
+	width: 300px;
+	border-right: 1px solid #CACACA;
+	height: 30px;
+	background:#f5f5f5;
+    color: #0F1656;
+	line-height: 30px;
+	text-align: center;
+	font-style:normal;
+	overflow:hidden;
+}
+#title .titleviewDivision{
+	float: left;
+	width: 260px;
+	border-right: 1px solid #CACACA;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+
+    font-size: 12.5px;
+    font-weight: bold;
+	
+}
+.btn-mini{
+	
+}
+.item .titleviewDivision{
+	float: left;
+	width: 260px;
+	border-right: 1px solid #CACACA;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	background: #f5f5f5;
+    color: #0F1656;
+	font-style:normal;
+	overflow:hidden;
+}
+#title .titleviewRemove{
+	float: left;
+	padding-left:15px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+
+    font-size: 12.5px;
+    font-weight: bold;
+	
+}
+.item .titleviewRemove{
+	float: left;
+	/*width: 85px;*/
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	background:  #C1D7E6;
+    color: #0F1656;
+	font-style:normal;
+}
+.titleviewRemove input{
+	/* font-size:12px;
+	cursor:pointer;
+	background:#3F79B2;
+    border: 1px solid cornflowerblue;
+    border-radius: 10px 10px 10px 10px;
+    color: cornsilk; */
+}
+#title .titleviewAddButton{
+	float: left;
+	width:70px;
+	height: 30px;
+	line-height: 30px;
+	display:none;
+	text-align:center;
+
+    font-size: 12.5px;
+    font-weight: bold;
+
+	
+}
+.item .titleviewAddButton{
+	float: left;
+	padding-left:10px;
+	height: 30px;
+	line-height: 29px;
+	display:none;
+	text-align:center;
+	background:#f5f5f5;
+    color: #0F1656;
+	font-style:normal;
+}
+.titleviewAddButton input{
+	/* cursor:pointer;
+	background:#3F79B2;
+    border: 1px solid cornflowerblue;
+    border-radius: 10px 10px 10px 10px;
+    color: cornsilk; */
+}
+.button{
+	float:right;
+}
+.item{
+	overflow: scroll;
+	overflow-x: hidden;
+	height: 200px;
+	height:200px;
+	background:#fff;
+}
+.button input{
+	/*width:70px;
+	height:24px;*/
+	cursor: pointer;
+	margin-right:23px;
+}
+.searchheight{
+	height:65px;
+}
+#areaResult .last{
+	width:207px !important;
+}
+#areaResult .first{
+	/* width:257px !important; */
+}
+#zoneResult .first,#SubAreaMaster .first,#divResult .first{
+	/* width:208px ! important; */
+}
+#zoneResult .last,#SubAreaMaster .last ,#divResult  .last{
+	/* width:167px ! important; */
+}
+#viewAddZoneView{
+	height:30px;
+	background: #f5f5f5;
+    color: #0F1656;
+	overflow: hidden;
+}
+#viewSubAreaView  .divTitleRow{
+	background:#BD4247;
+	color:white;
+}
+#addSubAreaView .divTitleRow{
+	background:#BD4247;
+	color:white;
+}
+#areamatrixresults .titleviewRemove{
+	background:#f5f5f5;
+	padding-left:10px;
+}
+.nobg {
+	background:none !important;
+}
+#areamatrixresults .divTitleRow {
+	background:#f5f5f5;
+}
+input[type="text"]{
+	font-size:10.5px !important;
+}
+td a{
+	/* height: 15px;
+    line-height: 12px;
+    width: 13px;
+	border-radius:3px !important;*/
+}
+.areawid{
+	width:62px;
+}

@@ -1,0 +1,46 @@
+ .align{
+	float:left
+}
+
+.tablecontent{
+	background:#fff;
+    margin:10px;
+    /*width: 750px;*/
+}
+.table1{
+	margin:10px;
+	/*height:300px;*/
+}
+.table1 table{
+	width:868px;
+
+	height:300px;
+	line-height:25px !important;
+}
+.table1 td input{
+}
+.table1 td textarea{
+	
+}
+.table2{
+	margin:10px;
+	height:30px;
+	line-height:30px;
+}
+.table2 input{
+	margin:3px 12px 3px 12px;
+}
+.table3{
+	margin:10px;
+}
+.table3 table{
+	margin:10px;
+	width:40%;
+}
+.table3 table td a{
+	text-align:center;
+	font-size:15px;
+}
+.table3 td input{
+
+}

@@ -1,0 +1,80 @@
+ .align{
+	float:left
+}
+
+.tablecontent{
+    margin:10px;
+	background:#fff;
+}
+.table1 table{
+	/* width:830px;
+	margin:10px;
+	height: 350px; */
+}
+.tablecontent td a{
+
+    /*margin-top: 0;
+	text-align:center;
+	line-height:18px;
+    height: 18px;
+    width: 100px;*/
+	
+}
+#viewStore{
+	/*padding:2px 5px;*/
+}
+.table1 td input{
+}
+.table1 td textarea{
+
+}
+.table1 tbody td{
+	height:28px;
+}
+.table2 table{
+	margin: 10px;
+}
+.table2 table td{
+	margin-right:10px;
+}
+#isHO{
+	margin-top:7px;
+}
+.is{
+	
+}
+.table2 input,.table2 label{
+	float:left;
+	margin:3px 5px;
+}
+.table3 table{
+	/* margin: 10px 25px 10px 270px;
+    width: 300px;
+	padding:0px 25px; */
+}
+.table3 table td {
+	width:100px;
+	text-align:center;
+}
+.width{
+	
+}
+.table3 td input{
+	/*width:70px;
+	height:24px;*/
+}
+.table3 td a{
+	font-size:15px;
+}
+#linkShow{
+	/*width:60px !important;
+	height:17px;
+	line-height:17px;*/
+}
+#storeResult .first{
+	/* width:268px ! important; */
+}
+#storeResult .second{
+	border-right:0px !important;
+	/* width:127px ! important; */
+}

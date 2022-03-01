@@ -1,0 +1,213 @@
+.align{
+    float:left
+}
+.allocated{
+
+    background:#E4E9F0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    border:1px solid #CACACA;
+    height: auto;
+}
+#table_content{
+    border: 1px solid #727272;
+    border-radius: 10px 10px 10px 10px;
+    height:auto;
+    min-height:130px;
+    margin-top:10px;
+}
+#table{
+    height:auto;
+    min-height:130px;
+    background:#fff;
+}
+#view{
+
+}
+#view .divTitleRow{
+    font-size:15px;
+    background: #BD4247;
+    color: white;
+    font-size: 12.5px;
+    font-weight:bold;
+}
+.tablelocation{
+    line-height:25px;
+}
+.tablelocation table td{
+
+}
+.tablelocation table{
+    /* margin:10px 20px 10px 20px;
+    height:200px; */
+    width:40%;
+    padding:0px  50px;
+
+}
+.divTitleRow{
+
+    height:30px;
+}
+.divRowHead{
+    width:472px;
+    height: 30px;
+    border-bottom: 1px solid black;
+}
+.divRow{
+
+    height: 30px;
+    border-bottom: 1px solid #CACACA;
+}
+#allocatedResult{
+    background: #F9F9F9;
+}
+.colHead{
+    float: left;
+    width: 620px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    background:#F9F9F9;
+    color: blue;
+    font-size:12.5px;
+}
+.divRow .colfirst{
+    float: left;
+    width: 30px;
+    height: 30px;
+    border-right: 1px solid #CACACA;
+    background: #F9F9F9;
+}
+.colfirst a{
+    background: #F9F9F9;
+}
+.colfirst{
+    float: left;
+    width: 30px;
+    height: 30px;
+    border-right: 1px solid #CACACA;
+    padding-left:10px;
+}
+.divRow .colname{
+    float: left;
+    border-right: 1px solid #CACACA;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #0F1656;
+    background:  #F9F9F9;
+}
+.colname{
+    float: left;
+    width: 62.7%;/*680px*/
+    border-right: 1px solid #CACACA;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    overflow:hidden;
+}
+.divRow  .colcode{
+    float: left;
+    border-right: 1px solid #CACACA;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #0F1656;
+    background:  #F9F9F9;
+
+}
+.colcode{
+    float: left;
+    width:20.2%;/*220px;*/
+    border-right: 1px solid #CACACA;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+.divRow .colcloseval{
+    float: left;
+
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #0F1656;
+    background:  #F9F9F9;
+}
+.colclose{
+    float: left;
+    width: 90px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+.item{
+    border-top:1px solid #CACACA;
+    overflow: scroll;
+    background:#FFF;
+    overflow-x: hidden;
+    height:300px;
+}
+.colcloseval{
+    float: left;
+    width: 10.3%;/*90px;*/
+    height: 30px;
+}
+.button  input{
+    /*width:70px;*/
+    text-align:center;
+    margin:0px 7px 0px 7px;
+}
+.button{
+    /*text-align:center;*/
+}
+.button input[type="reset"]{
+    /*margin-left:80px;*/
+}
+#managerResult, #SRResult{
+    /* width:475px; */
+}
+#SRResult .first{
+    /* width:305px ! important; */
+}
+#SRResult .second {
+    width:157px ! important;
+    border-right:0px !important;
+}
+#managerResult .first {
+    /* width:335px ! important; */
+}
+#managerResult .second {
+    border-right:0px !important;
+    width:157px ! important;
+}
+#storeResult{
+    /* width:475px; */
+}
+#storeResult .first{
+    /* width:291px; */
+    padding:0px;
+}
+#storeResult .second{
+    border-right:0px;
+    width:284px;
+    padding:0px;
+}
+#storeResult .last{
+    width:0px  ! important;
+}
+.input {
+    width:100px;
+}
+.input input{
+    /* width:160px; */
+    margin-right:20px;
+}
+.btn-mini{
+    padding:0px 6px 3px;
+    margin-bottom:11px;
+}
+
+.name{
+    /* width:95px; */
+}

@@ -1,0 +1,24 @@
+#tablecontent{
+	background:#FFFFFF;
+}
+#tablecontent .table1{
+	
+}
+.table1  table{
+	width:50%;
+}
+.table1  table td input[type="text"]{
+	
+}
+.table2{
+	margin:10px 0px;
+}
+.table2 table{
+	width:40%;
+}
+.table2 table td a{
+	font-size:14px;
+}
+.table2 table td input{
+	
+}

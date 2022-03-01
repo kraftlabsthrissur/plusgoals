@@ -1,0 +1,38 @@
+#tablecontent{
+	background:#FFF;
+	margin:10px;
+}
+#tablecontent .table{
+	
+}
+.table  table{
+	
+}
+.table  table td a{
+	/*	width:68px;
+	height:17px;
+	line-height: 18px;
+    text-align: center;
+	float:left;*/
+}
+.table  table td input{
+	/*width:70px;
+	height:24px;
+	line-height:18px;
+	text-align:center;*/
+}
+.table  table td  input[type="text"]{
+	
+}
+.btns {
+	width:100px;
+}
+.btns  td a{
+	font-size:15px;
+}
+.btns  td input{
+	 
+}
+.table th,.table td{
+	border-top:0px;
+}

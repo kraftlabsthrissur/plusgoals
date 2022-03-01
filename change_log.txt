@@ -1,0 +1,6 @@
+2017-03-16
+Added files to avoid in insert actions
+
+2017-03-17
+Modified GetUserAuthorizedModeItems, added userid in UserAuthorizedModeItems table
+ 

@@ -1,0 +1,50 @@
+#tablecontent{
+	background:#FFF;
+	height: auto;
+    min-height: 130px;
+
+}
+#tablecontent .table1{
+	height:300px;
+	padding: 25px;
+    /*width: 668px;*/
+}
+.table1  table{
+	width:90%;
+	height:300px;
+}
+.table1  table td input{
+	font-size: 11px;
+   
+}
+.table2{
+	padding:0px 25px 0px 25px;
+}
+.table2 input{
+	margin-right:15px;
+}
+.table3{
+	padding: 25px;
+}
+.table3 table{
+	width:45%;
+	margin-left:190px;
+}
+.table3 table td a{
+	
+}
+.table3 table td input{
+	
+}
+.clear{
+	clear:both;
+}
+.validation{
+	/*height:80px;*/
+}
+.text{
+	
+}
+.wid{
+	
+}

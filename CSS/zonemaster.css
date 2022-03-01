@@ -1,0 +1,50 @@
+.tablecontent{
+    height:auto;
+	background:#fff;
+}
+.table1{
+	margin:10px;
+}
+.table1 table{
+	width:37%;
+}
+.table1 td input[type="text"]{
+	/* margin-right:10px; */
+}
+.btn-mini{
+	margin-bottom:10px;
+}
+.table1 td a{
+	
+}
+.table1 table tr{
+	
+}
+.table2{
+	margin:10px;
+}
+.table2 table{
+	width:47%;
+}
+.table2  table td a{
+	font-size:15px;
+}
+.table2 td input{
+	
+}
+.second{
+	border-right:0px ! important;
+	width:204px ! important;
+}
+.first{
+	/* width:257px ! important; */
+}
+.last{
+	width:0px !important;
+}
+.text{
+	
+}
+.name{
+	
+}

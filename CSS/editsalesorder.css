@@ -1,0 +1,364 @@
+ #align_content{
+	/* height: 40px;
+	line-height:38px; */
+	margin:10px 0px 10px 10px !important;
+}
+.btn-mini{
+	margin-bottom:10px;
+	padding:1px 6px 6px;
+}
+.align{
+	float:left;
+	margin:0px !important;
+}
+#category{
+	height: 30px;
+    line-height: 28px;
+    margin:10px 10px 10px 0px !important;
+}
+#divddlCat #ddlcategory{
+	margin-left:0px !important;
+	font-family: arial;
+    font-size: 12px;
+}
+#category  p{
+	float:left;
+	margin:0;
+}
+#divddlSalesRep input{
+	margin-left:10px;
+}
+ .area{
+	width:90px;
+}
+.align .areas{
+	width:90px;
+	padding-left:22px;
+}
+.align  table{
+	/*margin:0px 7px !important;*/
+}
+.table2{
+	width:914px;
+	margin:0px 3px 0px 3px;
+}
+.productname{
+	height: 40px;
+	line-height:32px;
+	margin:10px;
+}
+.productname table{
+	
+}
+#txtProductName{
+	margin:0px 3px 10px 1px;
+}
+#txtQty{
+	margin: 0 5px 10px;
+}
+#txtOfferQty{
+	margin: 0 5px 10px;
+}
+.SalesOrder{
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	border:1px solid #CACACA;
+	height: auto;
+}
+.divTitleRow{
+	width:98.5%;
+}
+.table1{
+	background:#fff;
+	padding:19px 10px;
+}
+.divRowHead{
+	height: 30px;
+	border-bottom: 1px solid black;
+}
+.divRow{
+	width:908px;
+	height: 30px;
+	border-bottom: 1px solid black;
+}
+.colHead{
+	float: left;
+	width: 180px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.colName{
+	float: left;
+	/* width: 270px !important; */
+	height: 30px;
+	border-right: 1px solid #CACACA;
+	line-height: 30px;
+	text-align: center;
+}
+.colCateg{
+	float: left;
+	/* width: 270px !important; */
+	border-right: 1px solid #CACACA;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.colQty{
+	float: left;
+	/* width: 75px !important; */
+	border-right: 1px solid #CACACA;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.colOffer{
+	float: left;
+	/* width: 85px !important; */
+	border-right: 1px solid #CACACA;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.colMRP{
+	float: left;
+	/* width: 95px !important; */
+	border-right: 1px solid #CACACA;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.colAmount{
+	float: left;
+	/* width: 107px !important; */
+	border-right: 1px solid #CACACA;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.colclose{
+	float: left;
+	/* width: 105px !important; */
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.item{
+	border-top:1px solid #CACACA;
+	overflow: scroll;
+	overflow-x: hidden;
+	height: 200px;
+}
+.colcloseval{
+	float: left;
+	/* width: 80px !important; */
+	height: 30px;
+}
+.colum1{
+	float: left;
+	width: 80px;
+	border-right: 1px solid #CACACA;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.colVal1{
+	float: left;
+	width: 77px;
+	border-right: 1px solid #CACACA;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.colValLast{
+	float: left;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.item table{
+	border-spacing:0;
+	border-bottom: none !important;
+}
+.item table.even{
+	background:#D8D1FF;
+}
+.item table.odd{
+	background:#EEE9FF;
+}
+.item table tr td{
+	height: 40px;
+    overflow: hidden;
+    color: #0F1656;
+	padding:0;
+	/*height:30px;*/
+}
+.linkButton{
+	
+}
+.list .title  .col1{
+	width:74.5%  ! important; 
+}
+.list .title .col2{
+	/*width:155px ! important;
+	border-right:1px solid black;*/
+}
+.list .title  .lastcol{
+	width:180px;
+}
+.SoNo{
+	float:left;
+	line-height:77px;
+	margin:0px 30px 0px 30px;
+}
+#colum1{
+	border-right:0px;
+}
+#communicationResult .last{
+	border-right:0px !important;
+	width:65% !important;
+}
+#communicationResult  .first{
+	width:15.35% !important;
+	padding:5px !important;
+}
+#communicationResult  .second{
+	width:24.58% !important;
+	padding:5px !important;
+	 overflow: hidden !important;
+}
+.save{
+	float:right;
+	margin: 5px 20px;
+}
+.save input{
+	
+}
+.divTitleRow div{
+    color: white;
+	font-size: 14px ! important;
+    /*font-style: italic;*/
+}
+#productSearch{
+
+	
+}
+#table input {
+   /*  background: none repeat scroll 0 0 #6EACEA;
+    border-radius: 10px 10px 10px 10px; */
+    color: #FFF;
+    font-size: 11px;
+}
+.button input{
+	/* height:23px; */
+}
+#button_part table tr .button input {
+
+}
+#btnSelectProduct {
+	margin:0px 15px 10px 0px;
+}
+#btnAdd{
+	margin:0px 0px 10px 5px;
+}
+.btn-warning{
+	margin-bottom:10px;
+}
+#comunctn{
+	width:15.09% !important;
+}
+#col2{
+	border-right:1px solid black;
+}
+#savebtn{
+	float:right;
+	width:100%;
+	clear:both;
+}
+.list{
+	clear:both;
+}
+.list .title{
+	width:98%;
+	clear:both;
+	border-bottom:0px !important;
+}
+.pending {
+	float:left;
+	width:100%;
+}
+.pending table{
+	width:96%;
+	margin:5px 0px 5px 15px;
+}
+.pending table td{
+	line-height:19px;
+}
+.pending input{
+	margin-top:0;
+}
+.button .linkButton{
+	margin-bottom:0px;
+}
+#collectionResult td{
+	cursor:text;
+}
+#collectionMain{
+	/* width:650px; */
+}
+#collectionMain .list{
+	/* width:634px; */
+}
+#collectionMain .list .title{
+/* 	width:634px; */
+	height:23px;
+	border-bottom:1px solid black;
+}
+#collectionMain .list #collectionList{
+	/* width:634px; */
+}
+#collectionMain  .title .titleText{
+	/* width:580px; */
+}
+#cdate{
+	/* width:69px; */
+}
+#bankname{
+	/* width:115px; */
+}
+#chckdate{
+	/* width:76px; */
+}
+#communicationMain{
+	/* width:650px; */
+}
+#communicationMain .list ,#communicationMain .list .title ,#communicationMain .list #communicationList{
+	/* width:634px; */
+}
+#communicationMain .title .titleText{
+	/* width:580px; */
+}
+.title tbody tr{
+	background-color: #9FCFA7;
+}
+#check{
+		
+}
+#dat{
+	width:70px;
+}
+#bank{
+	width:116px;
+	overflow:hidden;
+}
+#amount{
+	width:81px;
+}
+#remarks{
+	overflow:hidden;
+	width:155px;
+}
+#communicationResult{
+	width:100%;
+}

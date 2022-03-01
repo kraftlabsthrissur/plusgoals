@@ -1,0 +1,63 @@
+.align{
+	float:left
+}
+
+.table_content{
+    margin:10px;
+	background:#fff;
+	min-height:200px;
+	height:auto;
+}
+.subtable{
+}
+.subtable table{
+
+	height:250px;
+}
+.subtable td input{
+
+}
+.subtable td select{
+	/* min-width:100px;
+	max-width:240px; */
+}
+.subtable td textarea{
+	width:150px;
+}
+.subtable table tr{
+	height:50px;
+}
+.subtable2{
+	margin:10px 30px;
+}
+.subtable2 table{
+	width:260px;
+}
+.subtable td{
+	padding-right:20px;
+}
+.subtable2  table td a{
+    /*height: 17px;
+	line-height:18px;*/
+    font-size:14px;
+}
+.click{
+	font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+    margin: 10px;
+    text-align: center;
+	background:#CCC;
+	border:1px solid grey;
+	border-radius:10px;
+}
+.click a{
+	color:darkred;
+	margin-left:5px;
+}
+.subtable2 td input{
+	/*height: 24px;
+	line-height:24px;*/
+	text-align:center;
+
+}

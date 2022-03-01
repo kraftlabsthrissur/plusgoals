@@ -1,0 +1,35 @@
+
+.tablecontent{
+    height:auto;
+	background:#fff;
+}
+.table1{
+	
+}
+.table1 table{
+	margin:10px;
+	height:100px;
+}
+.table1 table td input[type="text"]{
+	
+}
+.table2{
+	margin:10px 25px;
+}
+.table2 table{
+	width:40%;
+
+}
+.table2  table td a{
+	text-align:center;
+	font-size:15px;
+}
+.table2 td input{
+	/*height: 24px;
+    width: 70px;
+	line-height:18px;*/
+	text-align:center;
+}
+.code{
+	padding-right:20px;
+}

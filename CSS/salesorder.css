@@ -1,0 +1,227 @@
+#align_content{
+	/* height: 40px;
+	line-height:38px; */
+	margin:10px 0px 10px 5px;
+	float:left;
+	width:99%;
+}
+
+.align{
+	float:left;
+	margin-right:10px;
+}
+.align table input{
+	margin-bottom:0px;
+}
+
+
+
+#total_content{
+	line-height: 30px;
+    margin: 10px;
+	height:30px;
+}
+.button .disable{
+	/* color:slategrey !important; */
+}
+
+.productname table{
+	
+}
+#divddlSalesRep p{
+	float:left;
+	line-height:28px;
+	margin:0px 2px 0px 1px;
+}
+.productname table tr td{
+
+}
+#table{
+	height:auto;
+	margin:0px 3px;
+}
+#table input{
+	font-size:11px;
+}
+.table1 .well{
+	background:#fff;
+	padding:19px 5px;
+}
+#modediv{
+	margin: 10px 0px;
+}
+#ddlMode{
+	
+}
+.mode{
+	float:left;
+	margin-right:10px;
+}
+.mode a{
+	margin-right:10px;
+}
+#divDispatch{
+	
+}
+#divDispatch a{
+	margin:5px 10px;
+	float:left;
+}
+#divParcel{
+	display:block;
+}
+#divParcel input{
+	width:13%;
+}
+.mode select{
+	
+}
+#button_part{
+	margin:10px 0px;
+}
+#button_part table{
+	width:100%;
+}
+#button_part table tr .button input{
+	/*padding:2px 4px 3px 4px;*/
+}
+.button input{
+	/*height:24px;*/
+}
+#select input{
+	
+}
+.total{
+	float:right;
+}
+.total input{
+	margin-left:15px;
+	padding-right: 5px;
+    text-align: right;
+}
+.SalesOrder{
+	background:  #e4e9f0;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	border:1px solid #E5E5E5;
+	height: auto;
+}
+.divTitleRow{
+	height:30px;
+	background-color:#BD4247;
+	color: white;
+	font-weight: bold;
+	/*font-style:italic;*/
+}
+
+#heading{
+	height:30px;
+	line-height:30px;
+}
+#heading .colName,#heading .colCateg,#heading .colQty,#heading .colOffer,#heading .colMRP,#heading .colAmount,#heading .colclose{
+	/* border-right:0; */
+	text-align:center;
+	margin-left:0;
+}
+.divRow{
+	width:908px;
+	height: 30px;
+	border-bottom: 1px solid black;
+}
+.colHead{
+	/* float: left;
+	width: 180px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center; */
+}
+
+.span2,.span3,.span1{
+	margin:0px !important;
+}
+.item{
+	border-top:1px solid #CACACA;
+	overflow: scroll;
+	overflow-x: hidden;
+	height: 200px;
+}
+.item table{
+	 border-collapse: separate;
+	border-spacing:0;
+	width:100%;
+	font-size: 11px;
+	color: #0F1656;
+	background:#C1D7E6;
+}
+.item table.even{
+	background:#D8D1FF;
+}
+.item table.odd{
+	background:#F9F9F9;
+}
+.item table tr td{
+	height: 40px;
+    overflow: hidden;
+	/*height:30px;
+	border-bottom:1px solid black;*/
+}
+
+
+
+#col1{
+	/* width:235px; */
+}
+.searchbtn input{
+	width:70px;
+	height:23px;
+	line-height:18px;
+}
+#productSearch{
+	/* width:70px;
+	height:24px;
+	line-height:16px; */
+}
+#btnSelectProduct{
+	/*width:70px;
+	height:24px;*/
+
+}
+
+#overlayA{
+	height:auto !important;
+	width:920px !important;
+}
+
+/*#areaResult .last{
+	width:121px;
+}*/
+#storeResult{
+	/* width:474px; */
+}
+#divResult .first,#areaResult .first {
+	/* width:152px !important; */
+}
+#divResult .last,#areaResult  .last{
+	width:121px ! important;
+}
+
+#storeResult .first{
+	/* width:152px !important; */
+}
+#storeResult  .second{
+	width:153px ! important;
+}
+#productResult .second{
+	width:24%;
+	border-right:0px ! important;
+}
+#productResult .first{
+	/* width:268px !important; */
+}
+.align table{
+	/*width:250px;*/
+}
+.width{
+	width:73px;
+}

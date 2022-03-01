@@ -1,0 +1,45 @@
+#divsubArea{
+	margin-bottom:20px;
+}
+#divsubArea table{
+	height: auto;
+}
+#divsubArea table tr th{
+	background-color: #AAAAAA;
+    color: white;
+	font-size: 14px;
+	text-align:center;
+   /* font-style: italic;
+	height:30px;*/
+}
+#divsubArea table tr td{
+    text-align:center;
+     color: #0F1656;
+	 overflow:hidden;
+}
+#tablecontent{
+	margin:10px 0px;
+	height: auto;
+	overflow:hidden;
+}
+.back{
+	height:30px;
+	margin-bottom:10px;
+	width:80px;
+	line-height:30px;
+	text-align:center;
+}
+.back a{
+	/*height:17px;
+	width:68px;
+	line-height:16px;*/
+}
+.id{
+	width:100px;
+}
+.name{
+	width:620px;
+}
+.delete{
+	width:90px;
+}
